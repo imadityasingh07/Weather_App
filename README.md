@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A simple and responsive weather application built with **React**, **Tailwind CSS**, and **Axios**. Enter any city name to fetch and display the current weather conditions along with a short forecast.
+A simple and responsive weather application built with **HTML**, **CSS**, and **JS**. Enter any city name to fetch and display the current weather conditions along with a short forecast.
 
 ## 🔗 Live Demo
 
@@ -16,9 +16,9 @@ A simple and responsive weather application built with **React**, **Tailwind CSS
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JS
+- **HTML**
+- **CSS**
+- **JS**
 - **GitHub Pages** for deployment
 
 ## 🚀 Getting Started
